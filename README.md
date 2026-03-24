@@ -15,6 +15,7 @@ I started making websites about video games and manga when I was 11, like [anime
 
 ## Live
 
+- ✈️ **[draft.travel](https://draft.travel)** - AI trip itinerary generator with live SSE streaming, shareable links and PDF export - React + FastAPI + PostgreSQL + PydanticAI
 - 🤖 **[augmentsport.ai](https://augmentsport.ai)** - Sports news aggregator with AI, dedup by embeddings and auto summaries - React + FastAPI + PostgreSQL + OpenAI
 - 🌐 **[elambert.me](https://elambert.me)** - Portfolio - React + Vite + TypeScript, Solarized theme
 - ⛩️ **[anime-story.com](http://www.anime-story.com)** - My old manga/anime site, still up as a vitrine
